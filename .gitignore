@@ -1,0 +1,21 @@
+.vscode/
+
+# environment
+venv/
+env/
+ENV/
+.venv/
+.env
+.env.local
+
+# djangi
+*.sqlite3
+media
+
+# python
+__pycache__
+*.log
+*.pot
+*.pyc
+
+
